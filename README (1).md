@@ -1,7 +1,6 @@
-# -PRODIGY_DS_01-
-# 📊 Prodigy Task: Customer Demographics & Behavioral Insights
+# Customer Demographics & Behavioral Insights
 
-This project was created as part of the **Prodigy InfoTech Data science Internship**. It explores customer demographics and behavioral patterns through powerful data visualization using **Power BI**.
+It explores customer demographics and behavioral patterns through powerful data visualization using **Power BI**.
 
 ---
 
